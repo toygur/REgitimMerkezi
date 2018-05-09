@@ -1,0 +1,27 @@
+Bolge_Kodu;Bolge_Adi
+TR10;Ýstanbul
+TR21;Tekirdað, Edirne, Kýrklareli
+TR22;Balýkesir, Çanakkale
+TR31;Ýzmir
+TR32;Aydýn, Denizli, Muðla
+TR33;Manisa, Afyon, Kütahya, Uþak
+TR41;Bursa, Eskiþehir, Bilecik
+TR42;"write.csv(guven_endeksi_ocak, ""guven_endeksi_ocak.csv"",  row.names = F)"
+TR51;Ankara
+TR52;Konya, Karaman
+TR61;Antalya, Isparta, Burdur
+TR62;Adana, Mersin
+TR63;Hatay, Kahramanmaraþ, Osmaniye
+TR71;Kýrýkkale, Aksaray, Niðde, Nevþehir, Kýrþehir 
+TR72;Kayseri, Sivas, Yozgat
+TR81;Zonguldak, Karabük, Bartýn
+TR82;Kastamonu, Çankýrý, Sinop
+TR83;Samsun, Tokat, Çorum, Amasya
+TR90;Trabzon, Ordu, Giresun, Rize, Artvin, Gümüþhane
+TRA1;Erzurum, Erzincan, Bayburt
+TRA2;Aðrý, Kars, Iðdýr, Ardahan
+TRB1;Malatya, Elazýð, Bingöl, Tunceli
+TRB2;Van, Muþ, Bitlis, Hakkari
+TRC1;Gaziantep, Adýyaman, Kilis
+TRC2;Þanlýurfa, Diyarbakýr
+TRC3;Mardin, Batman, Þýrnak, Siirt
